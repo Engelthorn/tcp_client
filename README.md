@@ -1,2 +1,2 @@
 # tcp_client
-Just a simple to way to get internet connection.
+Just a simple way to get internet connection. 
